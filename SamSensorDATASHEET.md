@@ -5,7 +5,7 @@ date: "20/06/2020"
 output: html_document
 ---
 
-#Samsung SensorData CodeSheet
+**#Samsung SensorData CodeSheet**
 
 Data can be downloaded from here:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
