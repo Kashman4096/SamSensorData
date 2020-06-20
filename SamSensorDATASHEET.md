@@ -29,7 +29,6 @@ xtrain        | X_train.txt
 ytrain        | y_train.txt
 features      | features.txt
 tsub          | subject_test.txt
-              | **test body files were replaced by train files after processing**
 body1         | body_acc_x_test.txt and body_acc_x_train.txt
 body2         | body_acc_y_test.txt and body_acc_y_train.txt
 body3         | body_acc_z_test.txt and body_acc_z_train.txt
