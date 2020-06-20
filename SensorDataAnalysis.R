@@ -1,4 +1,4 @@
-library(data.table)                                                                              #importing data.table lib
+library(data.table)                                                                        #importing data.table lib
 xtest <- fread("C:/Users/user/Desktop/SamSensorData/UCI HAR Dataset/test/X_test.txt")      #fast reading the text file
 ytest <- fread("C:/Users/user/Desktop/SamSensorData/UCI HAR Dataset/test/y_test.txt")      #fast reading the text file
 features <- fread("C:/Users/user/Desktop/SamSensorData/UCI HAR Dataset/features.txt")      #fast reading the text file
