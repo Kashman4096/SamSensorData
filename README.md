@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Week-4-Assignment
+# Week 4- SAMSUNG Sensor Data
 This project includes four files: README.md, codebook.md, run_analysis.R, tidy_data.txt
 
 Followings are done:
